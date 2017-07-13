@@ -1,7 +1,7 @@
 let activeGitTrainig = true;
 
 const improveGitSkills = () => {
-  return "practice practice practice";
+  return "practice practice practice practice";
 }
 
 while(activeGitTrainig) {
