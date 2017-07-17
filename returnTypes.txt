@@ -1,0 +1,10 @@
+
+
+
+[
+	{'id': 1, 'reason': 'Zu gross / weit'},
+	{'id': 2, 'reason': 'Zu klein / eng'},
+    {'id': 3, 'reason': 'Produkt gefaellt nicht'}
+]
+	
+ 
