@@ -1,0 +1,51 @@
+UPDATE Warehouse;code[unique=true];name[lang=de];avgReadyForDeliveryTime;minship;maxship
+;10;Backstock;24;24;24
+;8;WE;24;24;24
+;9;Internet;24;24;24
+;9006;VL24;24;24;24
+;1;Schladming;48;24;48
+;15;Graz;48;24;48
+;23;Stuttgart;48;24;48
+;25;Innsbruck;48;24;48
+;27;SCS Wien;48;24;48
+;30;Villach;48;24;48
+;31;Linz;48;24;48
+;32;Salzburg;48;24;48
+;33;Lienz;48;24;48
+;36;Wien 1010;48;24;48
+;361;TransSALo;48;24;48
+;37;Bonn;48;24;48
+;38;Köln;48;24;48
+;39;Woergl;48;24;48
+;40;Bregenz;48;24;48
+;44;Hannover;48;24;48
+;45;Freiburg;48;24;48
+;50;Wien 1070;48;24;48
+;9008;VL48;48;24;48
+;11;OnlineRet;72;48;72
+;20;München;72;48;72
+;21;Rosenheim;72;48;72
+;22;Outlet Mün;72;48;72
+;26;Berlin;72;48;72
+;28;Oberhausen;72;48;72
+;29;Bremen;72;48;72
+;34;Essen;72;48;72
+;35;Trier;72;48;72
+;363;TransSGLo;72;48;72
+;41;Karlsruhe;72;48;72
+;42;Regensburg;72;48;72
+;77;VER OT Sta;72;48;72
+;9991;Wäscherei (Deprecated);72;48;72
+;9992;Wäscherei (Deprecated);72;48;72
+;24;Hamburg;96;72;96
+;360;TransLoSA;96;72;96
+;130;Verleih;120;96;120
+;71;Filiale 0;120;96;120
+;72;Filiale 0;120;96;120
+;9002;VL72;120;96;120
+;362;TransLoSG;168;144;168
+;9003;VL168;168;144;168
+;9004;VL336;240;216;240
+;9001;PREORDER;480;360;480
+;9005;VL504;504;360;504
+;9007;VL1344;1344;1200;1344
