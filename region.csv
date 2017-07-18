@@ -1,0 +1,82 @@
+UPDATE Region;isocode[unique=true];name[lang=de];minship;maxship
+;at;Österreich;0;24
+;de;Deutschland;24;48
+;mk;Mazedonien;24;48
+;mc;Monaco;48;72
+;sm;San Marino;48;72
+;cz;Tschechische Republik;48;96
+;fo;Färöer;48;96
+;gp;Guadeloupe;48;96
+;qa;Katar;48;96
+;ru;Russland;48;96
+;sk;Slowakische Republik;48;96
+;be;Belgien;48;120
+;hr;Kroatien;48;120
+;hu;Ungarn;48;120
+;it;Italien;48;120
+;itl;Livigno (Italien);48;120
+;lu;Luxemburg;48;120
+;mx;Mexico;48;120
+;nl;Niederlande;48;120
+;gr;Griechenland;48;144
+;il;Israel;48;144
+;si;Slowenien;48;144
+;us;USA;48;144
+;ch;Schweiz;48;168
+;dk;Dänemark;48;168
+;hk;Hongkong;48;168
+;li;Liechtenstein;48;168
+;cl;Chile;72;96
+;ar;Argentinien;72;120
+;az;Aserbaidschan;72;120
+;br;Brasilien;72;120
+;co;Kolumbien;72;120
+;eg;Ägypten;72;120
+;ge;Georgien;72;120
+;gf;Französich-Guayana;72;120
+;gg;Guernsey (GB);72;120
+;me;Montenegro;72;120
+;mq;Martinique;72;120
+;sa;Saudi-Arabien;72;120
+;sg;Singapur;72;120
+;ve;Venezuela;72;120
+;es;Spanien;72;144
+;pl;Polen;72;144
+;za;Südafrika;72;144
+;ca;Kanada;72;168
+;cy;Zypern;72;168
+;ea;Spanien (Ceuta/Melilla);72;168
+;fr;Frankreich;72;168
+;gb;Großbritannien;72;168
+;ic;Spanien (Kanaren);72;168
+;is;Island;72;168
+;mt;Malta;72;168
+;ro;Rumänien;72;168
+;ax;Finnland (Åland);72;192
+;fi;Finnland;72;192
+;ad;Andorra;96;144
+;kr;Südkorea;96;144
+;om;Oman;96;144
+;ae;Arabische Emirate;96;168
+;ba;Bosnien-Herzeg.;96;168
+;ie;Irland;96;168
+;lt;Litauen;96;168
+;tr;Türkei;96;168
+;au;Australien;96;192
+;bg;Bulgarien;96;192
+;ee;Estland;96;192
+;lv;Lettland;96;192
+;pt;Portugal;96;192
+;pt-20;Azoren (Portugal);96;192
+;pt-30;Madeira (Portugal);96;192
+;se;Schweden;96;192
+;no;Norwegen;96;216
+;ua;Ukraine;96;240
+;gi;Gibraltar;120;192
+;nz;Neuseeland;144;192
+;jp;Japan;144;240
+;je;Jersey (GB);168;216
+;in;Indien;216;288
+;rs;Serbien;216;336
+;cn;China;216;480
+;gl;Grönland (DK);240;312
