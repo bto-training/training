@@ -1,0 +1,25 @@
+insert_update LocalizationEntry;code[unique=true,allownull=true];translation[lang=cs];translation[lang=da];translation[lang=de];translation[lang=en];translation[lang=es];translation[lang=fi];translation[lang=fr];translation[lang=it];translation[lang=nl];translation[lang=no];translation[lang=pl];translation[lang=pt];translation[lang=sl];translation[lang=sv]
+;bundlePromotion.headlineWithoutSave;;;Im {0}er Set kaufen!;;;;;;;;;;;
+;myshop.deliverableToMyShopTooltip;;;Du kannst dir das Produkt direkt in den Shop liefern lassen.;;;;;;;;;;;
+;myshop.deliverableToMyshop;;;Lieferbar in unseren <span>Shop in {0}</span>;;;;;;;;;;;
+;myshop.inStockInMyshop;;;<span>Vorrätig</span> im Shop {0};;;;;;;;;;;
+;myshop.lessThanXItemsInStock;;;Weniger als {0} Stück lagernd;;;;;;;;;;;
+;myshop.moreThanXItemsInStock;;;Mehr als {0} Stück lagernd;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.header;;;Shopverfügbarkeit;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForAllStoresLoggedIn;;;Hallo {0}, die Entfernung ergibt sich aus deiner Lieferadresse {1}, {2}-{3} | <a href="{4}">ändern</a>;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForGpsFound;;;In deiner Nähe wurden <b>{0}</b> Shops im Umkreis von <b>{1}km</b> gefunden;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForGpsNotFound;;;In deiner Nähe wurden keine Ergebnisse gefunden. Hier findest du alle unsere Shops;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForGpsNotFoundLoggedIn;;;Hallo {0}, In deiner Nähe wurden keine Ergebnisse gefunden. Hier findest du alle unsere Shops aufgrund deiner Lieferadresse: {1}, {2}-{3} | <a href="{4}">ändern</a>;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForSearchTermFound;;;Bei der Suche nach <b>{0}</b> wurden im Umkreis von <b>{1}km {2}</b> Shops gefunden;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForSearchTermNotFound;;;Deine Suche <b>{0}</b> ergab keine Ergebnisse. Hier findest du alle unsere Shops.;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.resultText.resultForSearchTermNotFoundLoggedIn;;;Hallo {0}, deine Suche <b>{5}</b> ergab keine Ergebnisse. Hier findest du alle unsere Shops aufgrund deiner Lieferadresse: {1}, {2}-{3} | <a href="{4}">ändern</a>;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.searchInput;;;Nach Straße, Ort, PLZ suchen...;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.searchNearMe;;;Aktuellen Standort verwenden;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.shopentry.address;;;{0}, {1} {2};;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.shopentry.myshop;;;Mein Shop;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.shopentry.stock.inStock;;;Auf Lager;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.shopentry.stock.inStockSmallAmounts;;;Auf Lager, geringe Stückzahl!;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.shopentry.stock.notInStock;;;Leider nicht auf Lager!;;;;;;;;;;;
+;productdetails.additionalinfo.shopavailability.showmore;;;Mehr Shops anzeigen;;;;;;;;;;;
+;productdetails.mobile.chooseColor;;;Bitte wählen;;;;;;;;;;;
+;ratings.wasthishelpful;;;War das hilfreich?;;;;;;;;;;;
